@@ -1,6 +1,6 @@
 # django-tuto-3.2
 
-- [はじめての Django アプリ作成](https://docs.djangoproject.com/ja/3.2/intro/tutorial01/)
+- [はじめての Django アプリ作成(公式チュートリアル)](https://docs.djangoproject.com/ja/3.2/intro/tutorial01/)
 - [Django公式サイトのチュートリアルを咀嚼しながらやってみる](https://www.icoro.com/2021052511846/2)
 
 ## memo
